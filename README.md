@@ -57,5 +57,4 @@ Software engineering intern contributing to an AI-powered platform at Paximal an
   </table>
 </div>
 
----
 
