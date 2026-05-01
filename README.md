@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
 CS student at CSULB focused on machine learning and applied AI, with hands-on experience building and training models using Python, PyTorch, TensorFlow/Keras, scikit-learn, and more. 
 
-Software engineering intern contributing to an AI-powered platform at Paximal and IdeaClerk.
+Law-Tech SWE intern at IdeaClerk, contributing to an AI-powered patent drafting platform!
 
 ---
 
