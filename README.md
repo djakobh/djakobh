@@ -4,7 +4,7 @@ class djakobh():
   def __init__(self):
     self.name = "Dylan Hartley";
     self.username = "djakobh";
-    self.role = "SWE Intern @ IdeaClerk & Paximal";
+    self.role = "SWE Intern @ IdeaClerk & Previously Paximal";
     self.school = "California State University, Long Beach";
 
 if __name__ == '__main__':
