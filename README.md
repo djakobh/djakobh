@@ -5,10 +5,11 @@ class djakobh:
         self.education = "B.S. Computer Science @ CSULB"
         self.previously = ["SWE Intern @ IdeaClerk", "SWE Intern @ Paximal"]
         self.focus = ["Full-Stack Development", "Applied AI"]
+        self.approach = [
+            "Seek new challenges, let yourself be in awe of what out machines are capable of",
+            "You are in Control of your future!"
+        ]
 
-    def approach(self):
-        return "Seek new challenges, let yourself be in awe of what out machines are capable of.
-                You are in Control of your future!"
 
 if __name__ == "__main__":
     me = djakobh()
