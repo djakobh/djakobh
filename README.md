@@ -1,22 +1,24 @@
 ```python
-class djakobh():
-    
-  def __init__(self):
-    self.name = "Dylan Hartley";
-    self.username = "djakobh";
-    self.role = "Previous SWE Intern @ IdeaClerk & Paximal";
-    self.school = "California State University, Long Beach";
+class djakobh:
+    def __init__(self):
+        self.name = "Dylan Hartley"
+        self.education = "B.S. Computer Science @ CSULB"
+        self.previously = ["SWE Intern @ IdeaClerk", "SWE Intern @ Paximal"]
+        self.focus = ["Full-Stack Development", "Applied AI"]
 
-if __name__ == '__main__':
+    def approach(self):
+        return "Seek new challenges, let yourself be in awe of what out machines are capable of. You are in Control of your future!"
+
+if __name__ == "__main__":
     me = djakobh()
 ```
 ---
 
 ### About
 
-CS student at CSULB focused on machine learning and applied AI, with hands-on experience building and training models using Python, PyTorch, TensorFlow/Keras, scikit-learn, and more. 
+Computer Science graduate from CSULB with experience in full-stack development and applied AI. I build web applications and machine learning projects using TypeScript, React, Next.js, Python, and PyTorch.
 
-Ex Law-Tech SWE intern at IdeaClerk and Paximal, contributing to an AI-powered patent drafting platform!
+Previously a Software Engineering Intern at IdeaClerk and Paximal, contributing to product interfaces, real-time features, and publishing workflows.
 
 ---
 
